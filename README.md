@@ -1,9 +1,19 @@
-## Olá! Eu sou o [Seu Nome]!
+## Olá! Eu sou o Vinicius Alves! 👋
 
-🌱 **Trabalhando atualmente como [Seu Cargo]**  
-💻 **Tecnologias principais:** [Lista de Tecnologias]  
-📚 **Estudando:** [Tecnologias ou tópicos que você está aprendendo]  
-✨ **Fato divertido:** [Algo pessoal ou interessante sobre você]  
+💻 **Principais Tecnologias:**  
+- C#, ASP.NET, .NET Core  
+- React, TypeScript  
+- SQL Server, MySQL  
+- APIs RESTful, Entity Framework  
+
+📚 **Atualmente Estudando:**  
+- Cloud Computing (Azure)  
+- Microsserviços  
+- Boas práticas de arquitetura de software  
+
+✨ **Fato Curioso:**  
+- Apaixonado por tecnologia, gosto de resolver problemas complexos com soluções simples. Além de codificar, pratico esportes ao ar livre para manter o equilíbrio!
+
 
 ![Rank no CodeWars](https://www.codewars.com/users/viniciusalvessantos/badges/large)
 
