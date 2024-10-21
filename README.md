@@ -5,9 +5,9 @@
 📚 **Estudando:** [Tecnologias ou tópicos que você está aprendendo]  
 ✨ **Fato divertido:** [Algo pessoal ou interessante sobre você]  
 
-![Rank no CodeWars](https://www.codewars.com/users/seu-usuario/badges/large)
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Rank no CodeWars](https://www.codewars.com/users/viniciusalvessantos/badges/large)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=viniciusalvessantos&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusalvessantos&layout=compact&theme=radical)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
