@@ -6,6 +6,7 @@
 ✨ **Fato divertido:** [Algo pessoal ou interessante sobre você]  
 
 ![Rank no CodeWars](https://www.codewars.com/users/viniciusalvessantos/badges/large)
+
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=viniciusalvessantos&show_icons=true&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusalvessantos&layout=compact&theme=radical)
 
