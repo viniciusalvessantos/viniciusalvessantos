@@ -7,7 +7,7 @@
 - APIs RESTful, Entity Framework  
 
 📚 **Atualmente Estudando:**  
-- Cloud Computing (Azure)  
+- Cloud Computing  
 - Microsserviços  
 - Boas práticas de arquitetura de software  
 
